@@ -297,7 +297,12 @@ enableGitInfo = false
   pre = "<i class='fa fa-slack'></i>"
   url = "https://rstatsufv.slack.com/"
   weight = 18
-
+  
+[[menu.main]]
+  name = "Twitter"
+  pre = "<i class='fa fa-twitter'></i>"
+  url = "https://twitter.com/RstatsUFV"
+  weight = 25
 
 
 # Link to a PDF of your resume/CV from the menu.
