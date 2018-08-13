@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on #rstatsUFV</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on #rstatsUFV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Epidemiologia</title>
+      <link>/tags/epidemiologia/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/tags/epidemiologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitopatologia</title>
+      <link>/tags/fitopatologia/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/tags/fitopatologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geral</title>
+      <link>/tags/geral/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/tags/geral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metanalise</title>
+      <link>/tags/metanalise/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/tags/metanalise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Previsão de risco</title>
+      <link>/tags/previs%C3%A3o-de-risco/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/tags/previs%C3%A3o-de-risco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

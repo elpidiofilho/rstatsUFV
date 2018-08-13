@@ -1,0 +1,168 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Toggle navigation
+
+- id: table_of_contents
+  translation: Table of Contents
+
+# General
+
+- id: related
+  translation: Related
+
+- id: minute_read
+  translation: min read
+
+- id: previous
+  translation: Anterior
+
+- id: next
+  translation: Próximo
+
+- id: figure
+  translation: "Figure %d:"
+
+# Buttons
+
+- id: btn_preprint
+  translation: Preprint
+
+- id: btn_pdf
+  translation: Website
+
+- id: btn_cite
+  translation: Cite
+
+- id: btn_slides
+  translation: Slides
+
+- id: btn_video
+  translation: Video
+
+- id: btn_code
+  translation: Código
+
+- id: btn_dataset
+  translation: Dataset
+
+- id: btn_project
+  translation: Laboratório
+
+- id: btn_poster
+  translation: Poster
+
+- id: btn_source
+  translation: Source Document
+
+- id: btn_copy
+  translation: Copy
+
+- id: btn_download
+  translation: Download
+
+# About widget
+
+- id: interests
+  translation: Interesses
+
+- id: education
+  translation: Educação
+
+# Publications widget
+
+- id: more_publications
+  translation: Mais publicações
+
+# Posts widget
+
+- id: continue_reading
+  translation: Continue lendo
+
+- id: more_posts
+  translation: Outros posts
+
+# Talks widget
+
+- id: more_talks
+  translation: Mais cursos
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Resumo
+
+- id: publication
+  translation: Publicação
+
+- id: publication_type
+  translation: Type
+
+- id: date
+  translation: Data
+
+- id: last_updated
+  translation: Atualização
+
+- id: links
+  translation: Links
+
+- id: event
+  translation: Evento
+
+- id: location
+  translation: Local
+
+# Filtering
+
+- id: filter_by_type
+  translation: Filtro por tipo
+
+- id: filter_all
+  translation: Todos
+
+# Project details
+
+- id: open_project_site
+  translation: Página do Laboratório
+
+# Default node titles
+
+- id: posts
+  translation: Posts
+
+- id: publications
+  translation: Publicações
+
+- id: talks
+  translation: Cursos
+
+- id: projects
+  translation: Laboratório
+
+# Search
+
+- id: search_placeholder
+  translation: Buscar...
+
+- id: search_no_results
+  translation: Sem resultados
+
+# Error 404
+
+- id: page_not_found
+  translation: Página não encontrada
+
+- id: 404_recommendations
+  translation: Você estava procurando por isto?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: This website uses cookies to ensure you get the best experience on our website.
+
+- id: cookie_dismiss
+  translation: Got it!
+
+- id: cookie_learn
+  translation: Saiba mais

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#rstatsUFV on #rstatsUFV</title>
+    <link>/</link>
+    <description>Recent content in #rstatsUFV on #rstatsUFV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Desenvolvimento</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Website criado utilizando Blogdown&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use o R para preparar gráficos científicos que impressionam!</title>
+      <link>/talk/graficos-emerson/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0200</pubDate>
+      
+      <guid>/talk/graficos-emerson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiologia de doenças de plantas</title>
+      <link>/project/epidemiologia-emerson/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/project/epidemiologia-emerson/</guid>
+      <description>&lt;p&gt;Epidemiologia de Doenças de Plantas&lt;/p&gt;
+
+&lt;p&gt;Departamento de Fitopatologia&lt;br /&gt;
+Prof. Emerson Medeiros Del Ponte&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grupo de usuários de R na UFV</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>&lt;p&gt;O Grupo #rstatsUFV surgiu com o propósito de reunir a comunidade de usuários de R para troca de experiências e produção de material didático, workshops e cursos visando a popularização do R como ferramenta de análise de dados e pesquisa reproduzível.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0300</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0300</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
