@@ -28,8 +28,24 @@ caption = ""
 
 +++
 
-Epidemiologia de Doenças de Plantas
+<img src = "/img/grupos/epidemiologia_header.jpg">
 
+## Coordenação
+
+Prof. [Emerson M. Del Ponte](http://delpontelab.netlify.com)
+
+## Localização
 Departamento de Fitopatologia  
-Prof. Emerson Medeiros Del Ponte
- 
+Edifício Sylvio S. Brandão
+
+## R no ensino
+
+O Laboratório é responsável por duas disciplinas que requerem o uso de R para as rotinas computacionais:
+
+- FIP 602 - Plant Disease Epidemiology
+- FIP 606 - Análise de dados em Fitopatologia
+
+## R na pesquisa
+
+A programação computacional em R é usada em projetos que envolvem análises estatísticas de dados de experimentos e levantamentos, metanálise, modelos temporais, gradientes e padrões espaciais, modelos de previsão de risco de doença e análise de imagens. Os projetos são organizados e conduzidos sob o princípio de ciência aberta e pesquisa reproduzível, visando a disponibilização de dados e transparência nas análises. 
+

@@ -284,6 +284,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Participantes"
   url = "#projects"
+  pre = "<i class='fa fa-user'></i>"
   weight = 4
 
 [[menu.main]]

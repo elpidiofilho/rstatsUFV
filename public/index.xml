@@ -35,10 +35,31 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
       
       <guid>/project/epidemiologia-emerson/</guid>
-      <description>&lt;p&gt;Epidemiologia de Doenças de Plantas&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src = &#34;/img/grupos/epidemiologia_header.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;coordenação&#34;&gt;Coordenação&lt;/h2&gt;
+
+&lt;p&gt;Prof. &lt;a href=&#34;http://delpontelab.netlify.com&#34; target=&#34;_blank&#34;&gt;Emerson M. Del Ponte&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;localização&#34;&gt;Localização&lt;/h2&gt;
 
 &lt;p&gt;Departamento de Fitopatologia&lt;br /&gt;
-Prof. Emerson Medeiros Del Ponte&lt;/p&gt;
+Edifício Sylvio S. Brandão&lt;/p&gt;
+
+&lt;h2 id=&#34;r-no-ensino&#34;&gt;R no ensino&lt;/h2&gt;
+
+&lt;p&gt;O Laboratório é responsável por duas disciplinas que requerem o uso de R para as rotinas computacionais:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;FIP 602 - Plant Disease Epidemiology&lt;/li&gt;
+&lt;li&gt;FIP 606 - Análise de dados em Fitopatologia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;r-na-pesquisa&#34;&gt;R na pesquisa&lt;/h2&gt;
+
+&lt;p&gt;A programação computacional em R é usada em projetos que envolvem análises estatísticas de dados de experimentos e levantamentos, metanálise, modelos temporais, gradientes e padrões espaciais, modelos de previsão de risco de doença e análise de imagens. Os projetos são organizados e conduzidos sob o princípio de ciência aberta e pesquisa reproduzível, visando a disponibilização de dados e transparência nas análises.&lt;/p&gt;
 </description>
     </item>
     

@@ -24,5 +24,5 @@ weight = 3
 #  label = '<i class="fa fa-slack"></i> Slack do grupo'
 
 +++
-Grupo que agrega a comunidade de usuários de R na UFV. É composto por professores, alunos e pesquisadores de diferentes áreas do conhecimento. Objetiva estimular o uso de R na ciência de dados e pesquisa reproduzível.
+Grupo de usuários de R na UFV composto por professores, alunos e pesquisadores de diferentes áreas do conhecimento. Objetiva estimular o uso de R na ciência de dados e pesquisa reproduzível.
 <br><br><br>
